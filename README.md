@@ -1,8 +1,8 @@
 # soli
 
-Open-source tools that give AI agents original sources and evidence anyone can check.
+Software that shows where its answers come from: two open-source tools that give AI agents original sources and evidence anyone can check, and Particael, a workspace for particle-collider simulation.
 
-An agent's answer is only as good as what it was given to read, and only as trustworthy as your ability to check it. Both projects here work on that: they hand the agent the original text, say exactly where it came from, and tell you when it is no longer current.
+An agent's answer is only as good as what it was given to read, and only as trustworthy as your ability to check it. Paracortex and TimelineXray work on that: they hand the agent the original text, say exactly where it came from, and tell you when it is no longer current. Particael applies the same rule to physics: every number it shows comes from a real run or a cited source.
 
 ## [Paracortex](https://github.com/solisolsoli/paracortex)
 
@@ -36,6 +36,12 @@ An agent's answer is only as good as what it was given to read, and only as trus
 
 [Read me](https://github.com/solisolsoli/timelinexray#readme) · [The evidence model](https://github.com/solisolsoli/timelinexray/blob/main/docs/evidence-model.md) · [Staleness](https://github.com/solisolsoli/timelinexray/blob/main/docs/staleness.md) · [Limits](https://github.com/solisolsoli/timelinexray/blob/main/docs/limits.md)
 
+## [Particael](https://particael.com)
+
+**Particle-collider simulations without scripts or terminal setup.** More than 400 physics models in one library. Every number comes from a real run or a cited source; nothing is invented. A desktop application, not open source; access is by invitation.
+
+[particael.com](https://particael.com)
+
 ## Status
 
-Both projects are in alpha. Each one documents what has been tested, how it was measured and where the limits are; those pages are part of the product, so read them before relying on a result.
+Paracortex and TimelineXray are in alpha. Each one documents what has been tested, how it was measured and where the limits are; those pages are part of the product, so read them before relying on a result.
