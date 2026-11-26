@@ -1,8 +1,23 @@
 # soli
 
-Software that shows where its answers come from: open-source tools that give AI agents original sources and evidence anyone can check, a tool that measures how websites are built, and Particael, a workspace for particle-collider simulation.
+Software that shows where its answers come from: Particael, a workspace for particle-collider simulation, open-source tools that give AI agents original sources and evidence anyone can check, and a tool that measures how websites are built.
 
-An agent's answer is only as good as what it was given to read, and only as trustworthy as your ability to check it. Paracortex and TimelineXray work on that: they hand the agent the original text, say exactly where it came from, and tell you when it is no longer current. Sitemetry and Particael apply the same rule elsewhere: a measurement names its date and method, and every number comes from a real run or a cited source.
+An agent's answer is only as good as what it was given to read, and only as trustworthy as your ability to check it. Paracortex and TimelineXray work on that: they hand the agent the original text, say exactly where it came from, and tell you when it is no longer current. Particael and Sitemetry apply the same rule elsewhere: every number comes from a real run or a cited source, and a measurement names its date and method.
+
+## [Particael](https://particael.com)
+
+**Particle-collider simulations without scripts or terminal setup.** More than 400 physics models in one library. Every number comes from a real run or a cited source; nothing is invented. A desktop application, not open source; access is by invitation.
+
+<p align="center">
+  <a href="https://particael.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solisolsoli/solisolsoli/main/img/particael-dark.svg">
+      <img src="https://raw.githubusercontent.com/solisolsoli/solisolsoli/main/img/particael-light.svg" width="300" alt="Particael">
+    </picture>
+  </a>
+</p>
+
+[particael.com](https://particael.com) · [github.com/particael](https://github.com/particael)
 
 ## [Paracortex](https://github.com/solisolsoli/paracortex)
 
@@ -51,12 +66,6 @@ An agent's answer is only as good as what it was given to read, and only as trus
 </p>
 
 [Read me](https://github.com/solisolsoli/sitemetry#readme) · [The handbook](https://github.com/solisolsoli/sitemetry/blob/main/handbook/README.md) · [Measurement method](https://github.com/solisolsoli/sitemetry/blob/main/docs/method.md) · [Responsible use](https://github.com/solisolsoli/sitemetry/blob/main/docs/responsible-use.md)
-
-## [Particael](https://particael.com)
-
-**Particle-collider simulations without scripts or terminal setup.** More than 400 physics models in one library. Every number comes from a real run or a cited source; nothing is invented. A desktop application, not open source; access is by invitation.
-
-[particael.com](https://particael.com)
 
 ## Status
 
